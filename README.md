@@ -6,3 +6,11 @@ Mentor_Task-1 (PyMongo)
 4)  imdb rating>7
 5)  Award>=1
 6)  Display only Title, music director name, Director names, cast and imdb rating, tomatoes rating
+------------------------------------------------------------------------------------------------------
+Mentor_Task-2 (iteration)
+
+X=(0,1,2,3,4,5,6,7,8,9),
+Pwd=(5,7,3,8)
+
+Generate iterations. Use loop function, to find the place value where the above mentioned password got generated.
+-------------------------------------------------------------------------------------------------------
