@@ -1,4 +1,4 @@
-# Mentors_Task
+# Mentor_Task
 Mentor_Task-1 (PyMongo)
 1)  Movies in between 1950-1970 and also 2000-2015 
 2)  Filter for genres such as Comedy, Horror and Fantasy
